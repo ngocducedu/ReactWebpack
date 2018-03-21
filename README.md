@@ -3,7 +3,7 @@ Setting up React project with webpack
 
 *With npm
 ```
-git clone https://github.com/ngocducedu/Learn-WebPack.git
+git clone https://github.com/ngocducedu/ReactWebpack.git
 ```
 ```
 cd Learn-WebPack
