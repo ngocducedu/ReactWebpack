@@ -137,5 +137,6 @@ webpack.config.js: add ==>
 => src/index.js   :  import './style.css';
 
 npm run build
+node_modules/.bin/webpack
 
 --
