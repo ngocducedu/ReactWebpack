@@ -6,7 +6,7 @@ Setting up React project with webpack
 git clone https://github.com/ngocducedu/ReactWebpack.git
 ```
 ```
-cd Learn-WebPack
+cd ReactWebpack
 ```
 ```
 npm install
